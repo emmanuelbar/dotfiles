@@ -1,0 +1,1 @@
+/usr/bin/filebot -script fn:amc /home/crampi/Downloads/ --output /home/crampi/ --log-file /home/crampi/amc.log --action move --conflict skip -non-strict -unixfs --def artwork=n --lang fr --encoding UTF-8 --def ignore=".iso|txt|part01|part02|par1|par2" --def clean=y --def excludeList=/home/crampi/amc-input.txt --def xbmc=localhost --def subtitles=fr
